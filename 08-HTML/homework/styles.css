@@ -1,0 +1,48 @@
+div {
+    text-align: center;
+}
+
+body {
+    background-size: cover;
+    background-image: url(https://mch.hk/wp-content/uploads/2021/01/3-shutterstock_604043510-scaled.jpg?189db0&189db0);
+}
+
+h1 {
+    color: black;
+
+}
+
+h3 {
+    font-size: 35px;
+    }
+h4 {
+font-size: 35px;
+}
+
+img {
+    
+    width: 400px;
+}
+
+#thirdDiv {
+    height: min-content;
+    width: min-content;
+    background-color: transparent;
+    padding: 30px;
+    border: 0px solid;
+    color: black;
+    font-size: 35px;
+    margin: auto;
+   
+}
+
+#spanId {
+    font-size: 35px;
+    margin: 50px;
+    font-weight: 700;
+}
+
+a {
+    font-size: 40px;
+    color: orange;
+}
